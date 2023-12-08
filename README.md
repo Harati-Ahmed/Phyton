@@ -31,8 +31,8 @@ This is a simple trading bot project developed by Ahmed El Harati. The bot uses 
 ## Disclaimer
 - This project is for educational purposes only. Trading involves risk, and past performance is not indicative of future results. Use the bot at your own risk.
 
-##Author
-Ahmed El Harati
+## Author
+- Ahmed El Harati
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
